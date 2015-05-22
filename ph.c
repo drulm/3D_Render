@@ -23,7 +23,6 @@ Not for production.
 #include <X11/Core.h>
 
 /*--------------------------------------------------------------------*/
-
 int light();
 double light2();
 double light3();
