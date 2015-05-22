@@ -3,8 +3,7 @@
 Phong, Gourand, Flat shading program (wireframe also)
 for Linux X windows.
 
-Coded in 3 days. Prototype & proof of concept only, 
-
+Coded in 3 days. Prototype & proof of concept only,
 Not for production. 
 ----------------------------------------------------------------*/
 
