@@ -67,6 +67,7 @@ void get_line();
 void load_scene();
 /*--------------------------------------------------------------------*/
 
+
 #define MAX_COLORS	1024
 #define LIGHT_MAX	10
 #define NUM_OBJS	20
